@@ -1,0 +1,23 @@
+{
+    "C_Cpp.default.configurationProvider": "ms-vscode.makefile-tools",
+    "files.associations": {
+        "iterator": "cpp",
+        "memory": "cpp",
+        "optional": "cpp",
+        "ranges": "cpp",
+        "system_error": "cpp",
+        "typeinfo": "cpp",
+        "compare": "cpp",
+        "array": "cpp",
+        "deque": "cpp",
+        "string": "cpp",
+        "unordered_map": "cpp",
+        "unordered_set": "cpp",
+        "vector": "cpp",
+        "string_view": "cpp",
+        "initializer_list": "cpp",
+        "span": "cpp",
+        "atomic": "cpp",
+        "chrono": "cpp"
+    }
+}
